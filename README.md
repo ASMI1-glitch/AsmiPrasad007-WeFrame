@@ -13,6 +13,10 @@ This repository contains the frontend implementation for the Next.js assignment 
 The design for the frontend is provided in the Figma link below. All styling, components, and layout should follow this design:
 
 [Figma Design](https://www.figma.com/design/HU82tAa3fGGf5NVyBZgUOu/next-js?t=7Ab7Gsm0k0NXjBAu-1)
+![image](https://github.com/user-attachments/assets/5e52bc90-0bcc-41d2-9bee-809ede100071) -> SCREENSHOT OF MY WORK BASED ON WEFRAME
+![image](https://github.com/user-attachments/assets/f4232703-b966-474f-8ca7-55eea3756dad) ->LightHouseScore 
+
+
 
 ## Project Setup
 
