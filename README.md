@@ -101,6 +101,7 @@ A short Loom video has been recorded where I walk through:
 - My project structure
 - Core components and approach
 - Lighthouse score results
+- loom video limk with voice and audio -> https://www.loom.com/share/63eeae03c70040b48b7db6323991030f?sid=c5069610-3c9d-4267-9145-a084c0c9e31d
 
 📽️ [Loom Video Link](https://www.loom.com/share/your-video-url)
 
