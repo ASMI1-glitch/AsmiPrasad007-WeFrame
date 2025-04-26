@@ -17,6 +17,8 @@ The design for the frontend is provided in the Figma link below. All styling, co
 ## Project Setup
 
 ### 1. Clone the Repository
+https://www.loom.com/share/ff9f3f45efc94022b970f9f1b65049f4 - LOOM VIDEO LINK 
+
 
 ```bash
 git clone https://github.com/your-username/nextjs-assignment.git
